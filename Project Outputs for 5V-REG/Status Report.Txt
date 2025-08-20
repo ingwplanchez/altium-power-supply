@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:34:30 On 7/8/2025
+
+Output: Bill of Materials
+Type  : BOM
+From  : PCB Document [5V REG.PcbDoc]
+   Generated File[Bill of Materials-5V REG.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:34:35 On 7/8/2025
